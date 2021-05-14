@@ -15,3 +15,4 @@ https://www.tensorflow.org/hub/tutorials/image_enhancing?hl=ko를 참고함
 - sr2_path: hr을 화질 개선한 영상(sr2) 위치  
 
 ## 적용 결과
+![lr](lr.gif)
