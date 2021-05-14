@@ -15,6 +15,8 @@
 - sr1_path:  lr을 화질 개선한 영상(sr1) 위치  
 - sr2_path: hr을 화질 개선한 영상(sr2) 위치  
 
-## 적용 결과
+## 적용 결과  
+- lr(downsampling한 이미지)  
 <img src = "lr.gif" width="40%"></center>  
+- sr1(lr을 화질 개선한 결과)  
 <img src = "sr1.gif" width="40%"></center>  
