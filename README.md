@@ -18,4 +18,5 @@
 ## 적용 결과
 ![lr](lr.gif){: width="100%" height="100%"}  
 ![sr1](sr1.gif){: width="50%" height="50%"}  
-<img src = "lr.gif" width="100%"></center>  
+<img src = "lr.gif" width="20%"></center>  
+<img src = "sr1.gif" width="10%"></center>  
