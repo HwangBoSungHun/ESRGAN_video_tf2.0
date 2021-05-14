@@ -1,6 +1,7 @@
 # ESRGAN_video_tf  
 화질 개선 기법인 ESRGAN을 영상에 적용하기 위해 tensorflow로 코드 작성함  
-https://www.tensorflow.org/hub/tutorials/image_enhancing?hl=ko를 참고함  
+참고 코드: https://www.tensorflow.org/hub/tutorials/image_enhancing?hl=ko
+영상 출처: https://www.youtube.com/watch?v=Z1HbFOQ201w&t=15s
 
 ## 주요 변수명  
 - hr: 원본 이미지  
@@ -15,4 +16,5 @@ https://www.tensorflow.org/hub/tutorials/image_enhancing?hl=ko를 참고함
 - sr2_path: hr을 화질 개선한 영상(sr2) 위치  
 
 ## 적용 결과
-![lr](lr.gif)
+![lr](lr.gif){: width="100%" height="100%"}
+![sr1](sr1.gif){: width="50%" height="50%"}
