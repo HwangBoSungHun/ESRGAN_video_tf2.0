@@ -16,7 +16,5 @@
 - sr2_path: hr을 화질 개선한 영상(sr2) 위치  
 
 ## 적용 결과
-![lr](lr.gif){: width="100%" height="100%"}  
-![sr1](sr1.gif){: width="50%" height="50%"}  
-<img src = "lr.gif" width="20%"></center>  
-<img src = "sr1.gif" width="10%"></center>  
+<img src = "lr.gif" width="40%"></center>  
+<img src = "sr1.gif" width="40%"></center>  
